@@ -1,6 +1,5 @@
-# pacman
-A game of pacman using python language.
-
+A:
+-------------------------
 1.The user is not required to press "ENTER" key after every step.
 2.Unique color is given to every object (pacman,ghosts,coins) to avoid confusion.
 3.Multiple ghost are present.
